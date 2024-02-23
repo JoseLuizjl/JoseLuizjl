@@ -17,4 +17,5 @@
     <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-204d69?style=for-the-badge&logo=mysql&logoColor=white" />
     <img alt="C#" src="https://img.shields.io/badge/C%23-5f4f7f?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img alt="UNITY" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div>
