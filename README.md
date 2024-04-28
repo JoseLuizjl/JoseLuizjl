@@ -6,7 +6,6 @@ I'm a backend developer student, also proficient in various front-end technologi
 
 - 👨‍💻 Currently honing my skills as a backend developer.
 - 📚 Constantly learning and staying updated with the latest technologies and trends.
-- 💼 Seeking internship opportunities to apply my skills and learn more in the real world.
 
 ## Languages
 
