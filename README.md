@@ -1,4 +1,4 @@
-# Hi there! I'm Jose Luiz 👋
+# Hi there! I'm Jose Luiz 
 
 I'm a backend developer student, also proficient in various front-end technologies. Python is my primary language, where I focus on machine learning. Additionally, I have experience in web and mobile development with JavaScript , as well as in C# and Unity for game development.
 
